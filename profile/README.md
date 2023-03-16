@@ -1,12 +1,28 @@
-## CS 및 면접대비 스터디를 위한 공간입니다.
+## 🙋‍ CS 및 면접대비 스터디를 위한 공간입니다.
 
-<!--
 
-**Here are some ideas to get you started:**
+## ☘ STUDY RULE
+### 운영 규칙
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 목요일 오후 쉬는 시간 (3시) 에 모여서 **주제를 배정**합니다.
+    - 인당 3 ~ 4개의 주제를 맡습니다.
+
+- 배정 받은 주제는 그 다음 주 화요일과 목요일에 걸쳐 **학습**을 하고 **발표**를 하게 됩니다.
+    - 하루에 총 3 ~ 4개의 주제를 발표합니다.
+    - 발표는 총 10분간 7분 발표 + 3분 질문으로 이루어집니다.
+    - 한 주에 걸쳐 총 6 ~ 8개의 주제가 발표가 되는데, *반드시 한 주에 한번은 발표를 해야합니다.*
+
+- 목요일 밤 12시까지 자신이 맡은 주제에 대한 간략한 **문제(1개…많으면 2개)**를 만들어 놓습니다.
+    - 모여서 만든 문제를 노션으로 공유하여 문제를 풉니다..! 채점을 한 후 Award도 만들 예정입니다.  ( 내일 다같이 정해보시죠 !)
+
+### 세부 규칙
+
+- 발표는 공평하게 돌아가면서 하겠습니다!
+    - **태근 → 영민 → 홍기 → 미소 → 윤서 → 민경**
+    - 1명 또는 2명이 더 발표하게 될 수도 있습니다. 이때는 자원를 받습니다 !
+        
+        없으면 룰렛 ~
+        
+- **나는 이걸 말해주고 싶다 …! 이 주제는 전부 알아야해!**
+    - 발표자는 임의로 조원들에게 의견을 구하고, 시간을 맞춰 발표를 진행할 수 있습니다.
+      이때는 강제성이 없습니다.
